@@ -25,7 +25,7 @@ MemifyMe is a web application designed to simplify meme creation using HTML, CSS
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/memifyme.git
+    git clone https://github.com/aankittt/memifyme.git
     ```
 
 2. Open the `index.html` file in your web browser.
